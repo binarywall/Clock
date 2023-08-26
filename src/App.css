@@ -1,0 +1,19 @@
+/* main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+} */
+ul li{
+  display:inline;
+  margin:20px;
+}
+body{
+  background-image:url(https://img.freepik.com/free-vector/worldwide-connection-gray-background-illustration-vector_53876-61772.jpg?w=2000);
+}
+.link{
+  text-decoration:none;
+}
+.link:hover{
+  color:red;
+  font-weight:500;
+}
